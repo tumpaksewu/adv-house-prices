@@ -1,7 +1,7 @@
 ## Группа 3
-[Ксения](https://github.com/VladimirBurob) ——
+[Ксения Милючихина](https://github.com/horomiii) ——
 [Александр Годелашвили](https://github.com/tumpaksewu) ——
-[Зиярат Гаджиева](https://github.com/Ziiarat)
+[Артём Бабаев](https://github.com/ArtemInDs)
 
 <img src="https://lejdiprifti.com/wp-content/uploads/2024/01/house-price-prediction-1920x1080.webp" width="500">
 
