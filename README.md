@@ -9,6 +9,9 @@
 
 Изначальный скор на Kaggle: 0.133</br>
 Финальный скор: 0.1278 </br>
+
+<img src="https://github.com/tumpaksewu/adv-house-prices/blob/main/submissions.jpeg?raw=true" width="500">
+
 </br></br>
 Что было сделано:</br>
 1. EDA (разведочный анализ данных)</br>
